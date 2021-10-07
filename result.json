@@ -1,0 +1,1644 @@
+// 0 site in a tile - 0 cluster
+[]
+// 1 site in a tile - 1 cluster
+[
+    {
+        "CenterPoint": {
+            "X": -11.414,
+            "Y": 114.229
+        },
+        "sites": [
+            {
+                "activeDate": 0,
+                "coverage": {
+                    "processed": {
+                        "coverage": "No Coverage"
+                    },
+                    "raw": {
+                        "lat": -11.414,
+                        "lng": 114.229,
+                        "locationCovered": true,
+                        "margins": [
+                            0,
+                            0,
+                            0
+                        ]
+                    }
+                },
+                "customer": {
+                    "ABN": "32001255312",
+                    "name": "Coregas"
+                },
+                "environment": "Outdoor",
+                "location": {
+                    "lat": -11.414,
+                    "lng": 114.229
+                },
+                "numberOfDevices": 1,
+                "project": {
+                    "App": "n/a",
+                    "BudgetLink": 0,
+                    "Cname": "Coregas",
+                    "Cpriority": "Medium",
+                    "Location": "Outdoor",
+                    "Pcode": "Coregas Customer",
+                    "Revenue": 0,
+                    "SalesLead": "n/a"
+                },
+                "radius": 100,
+                "siteName": "GE OIL \u0026 GAS AUSTRALIA"
+            }
+        ]
+    }
+]
+// 3 sites in a tile - 1 cluster
+[
+    {
+        "CenterPoint": {
+            "X": -11.414,
+            "Y": 114.229
+        },
+        "sites": [
+            {
+                "activeDate": 0,
+                "coverage": {
+                    "processed": {
+                        "coverage": "No Coverage"
+                    },
+                    "raw": {
+                        "lat": -11.414,
+                        "lng": 114.229,
+                        "locationCovered": true,
+                        "margins": [
+                            0,
+                            0,
+                            0
+                        ]
+                    }
+                },
+                "customer": {
+                    "ABN": "32001255312",
+                    "name": "Coregas"
+                },
+                "environment": "Outdoor",
+                "location": {
+                    "lat": -11.414,
+                    "lng": 114.229
+                },
+                "numberOfDevices": 1,
+                "project": {
+                    "App": "n/a",
+                    "BudgetLink": 0,
+                    "Cname": "Coregas",
+                    "Cpriority": "Medium",
+                    "Location": "Outdoor",
+                    "Pcode": "Coregas Customer",
+                    "Revenue": 0,
+                    "SalesLead": "n/a"
+                },
+                "radius": 100,
+                "siteName": "ABC"
+            },
+            {
+                "activeDate": 0,
+                "coverage": {
+                    "processed": {
+                        "coverage": "No Coverage"
+                    },
+                    "raw": {
+                        "lat": -11.614,
+                        "lng": 116.229,
+                        "locationCovered": true,
+                        "margins": [
+                            0,
+                            0,
+                            0
+                        ]
+                    }
+                },
+                "customer": {
+                    "ABN": "32001255312",
+                    "name": "Coregas"
+                },
+                "environment": "Outdoor",
+                "location": {
+                    "lat": -11.614,
+                    "lng": 116.229
+                },
+                "numberOfDevices": 1,
+                "project": {
+                    "App": "n/a",
+                    "BudgetLink": 0,
+                    "Cname": "Coregas",
+                    "Cpriority": "Medium",
+                    "Location": "Outdoor",
+                    "Pcode": "Coregas Customer",
+                    "Revenue": 0,
+                    "SalesLead": "n/a"
+                },
+                "radius": 100,
+                "siteName": "GE OIL \u0026 GAS AUSTRALIA"
+            },
+            {
+                "activeDate": 0,
+                "coverage": {
+                    "processed": {
+                        "coverage": "No Coverage"
+                    },
+                    "raw": {
+                        "lat": -11.714,
+                        "lng": 117.229,
+                        "locationCovered": true,
+                        "margins": [
+                            0,
+                            0,
+                            0
+                        ]
+                    }
+                },
+                "customer": {
+                    "ABN": "32001255312",
+                    "name": "Coregas"
+                },
+                "environment": "Outdoor",
+                "location": {
+                    "lat": -11.714,
+                    "lng": 117.229
+                },
+                "numberOfDevices": 1,
+                "project": {
+                    "App": "n/a",
+                    "BudgetLink": 0,
+                    "Cname": "Coregas",
+                    "Cpriority": "Medium",
+                    "Location": "Outdoor",
+                    "Pcode": "Coregas Customer",
+                    "Revenue": 0,
+                    "SalesLead": "n/a"
+                },
+                "radius": 100,
+                "siteName": "GE OIL \u0026 GAS AUSTRALIA"
+            }
+        ]
+    }
+]
+// 3 sites in a tile - 2 clusters
+[
+    {
+        "CenterPoint": {
+            "X": -17.514,
+            "Y": 115.229
+        },
+        "sites": [
+            {
+                "activeDate": 0,
+                "coverage": {
+                    "processed": {
+                        "coverage": "No Coverage"
+                    },
+                    "raw": {
+                        "lat": -17.514,
+                        "lng": 115.229,
+                        "locationCovered": true,
+                        "margins": [
+                            0,
+                            0,
+                            0
+                        ]
+                    }
+                },
+                "customer": {
+                    "ABN": "32001255312",
+                    "name": "Coregas"
+                },
+                "environment": "Outdoor",
+                "location": {
+                    "lat": -17.514,
+                    "lng": 115.229
+                },
+                "numberOfDevices": 1,
+                "project": {
+                    "App": "n/a",
+                    "BudgetLink": 0,
+                    "Cname": "Coregas",
+                    "Cpriority": "Medium",
+                    "Location": "Outdoor",
+                    "Pcode": "Coregas Customer",
+                    "Revenue": 0,
+                    "SalesLead": "n/a"
+                },
+                "radius": 100,
+                "siteName": "GE OIL \u0026 GAS AUSTRALIA"
+            }
+        ]
+    },
+    {
+        "CenterPoint": {
+            "X": -11.414,
+            "Y": 114.229
+        },
+        "sites": [
+            {
+                "activeDate": 0,
+                "coverage": {
+                    "processed": {
+                        "coverage": "No Coverage"
+                    },
+                    "raw": {
+                        "lat": -11.414,
+                        "lng": 114.229,
+                        "locationCovered": true,
+                        "margins": [
+                            0,
+                            0,
+                            0
+                        ]
+                    }
+                },
+                "customer": {
+                    "ABN": "32001255312",
+                    "name": "Coregas"
+                },
+                "environment": "Outdoor",
+                "location": {
+                    "lat": -11.414,
+                    "lng": 114.229
+                },
+                "numberOfDevices": 1,
+                "project": {
+                    "App": "n/a",
+                    "BudgetLink": 0,
+                    "Cname": "Coregas",
+                    "Cpriority": "Medium",
+                    "Location": "Outdoor",
+                    "Pcode": "Coregas Customer",
+                    "Revenue": 0,
+                    "SalesLead": "n/a"
+                },
+                "radius": 100,
+                "siteName": "ABC"
+            },
+            {
+                "activeDate": 0,
+                "coverage": {
+                    "processed": {
+                        "coverage": "No Coverage"
+                    },
+                    "raw": {
+                        "lat": -11.614,
+                        "lng": 116.229,
+                        "locationCovered": true,
+                        "margins": [
+                            0,
+                            0,
+                            0
+                        ]
+                    }
+                },
+                "customer": {
+                    "ABN": "32001255312",
+                    "name": "Coregas"
+                },
+                "environment": "Outdoor",
+                "location": {
+                    "lat": -11.614,
+                    "lng": 116.229
+                },
+                "numberOfDevices": 1,
+                "project": {
+                    "App": "n/a",
+                    "BudgetLink": 0,
+                    "Cname": "Coregas",
+                    "Cpriority": "Medium",
+                    "Location": "Outdoor",
+                    "Pcode": "Coregas Customer",
+                    "Revenue": 0,
+                    "SalesLead": "n/a"
+                },
+                "radius": 100,
+                "siteName": "GE OIL \u0026 GAS AUSTRALIA"
+            }
+        ]
+    }
+]
+// 3 sites in a tile - 3 clusters
+[
+    {
+        "CenterPoint": {
+            "X": -11.414,
+            "Y": 114.229
+        },
+        "sites": [
+            {
+                "activeDate": 0,
+                "coverage": {
+                    "processed": {
+                        "coverage": "No Coverage"
+                    },
+                    "raw": {
+                        "lat": -11.414,
+                        "lng": 114.229,
+                        "locationCovered": true,
+                        "margins": [
+                            0,
+                            0,
+                            0
+                        ]
+                    }
+                },
+                "customer": {
+                    "ABN": "32001255312",
+                    "name": "Coregas"
+                },
+                "environment": "Outdoor",
+                "location": {
+                    "lat": -11.414,
+                    "lng": 114.229
+                },
+                "numberOfDevices": 1,
+                "project": {
+                    "App": "n/a",
+                    "BudgetLink": 0,
+                    "Cname": "Coregas",
+                    "Cpriority": "Medium",
+                    "Location": "Outdoor",
+                    "Pcode": "Coregas Customer",
+                    "Revenue": 0,
+                    "SalesLead": "n/a"
+                },
+                "radius": 100,
+                "siteName": "ABC"
+            }
+        ]
+    },
+    {
+        "CenterPoint": {
+            "X": -11.914,
+            "Y": 119.229
+        },
+        "sites": [
+            {
+                "activeDate": 0,
+                "coverage": {
+                    "processed": {
+                        "coverage": "No Coverage"
+                    },
+                    "raw": {
+                        "lat": -11.914,
+                        "lng": 119.229,
+                        "locationCovered": true,
+                        "margins": [
+                            0,
+                            0,
+                            0
+                        ]
+                    }
+                },
+                "customer": {
+                    "ABN": "32001255312",
+                    "name": "Coregas"
+                },
+                "environment": "Outdoor",
+                "location": {
+                    "lat": -11.914,
+                    "lng": 119.229
+                },
+                "numberOfDevices": 1,
+                "project": {
+                    "App": "n/a",
+                    "BudgetLink": 0,
+                    "Cname": "Coregas",
+                    "Cpriority": "Medium",
+                    "Location": "Outdoor",
+                    "Pcode": "Coregas Customer",
+                    "Revenue": 0,
+                    "SalesLead": "n/a"
+                },
+                "radius": 100,
+                "siteName": "GE OIL \u0026 GAS AUSTRALIA"
+            }
+        ]
+    },
+    {
+        "CenterPoint": {
+            "X": -16.714,
+            "Y": 117.229
+        },
+        "sites": [
+            {
+                "activeDate": 0,
+                "coverage": {
+                    "processed": {
+                        "coverage": "No Coverage"
+                    },
+                    "raw": {
+                        "lat": -16.714,
+                        "lng": 117.229,
+                        "locationCovered": true,
+                        "margins": [
+                            0,
+                            0,
+                            0
+                        ]
+                    }
+                },
+                "customer": {
+                    "ABN": "32001255312",
+                    "name": "Coregas"
+                },
+                "environment": "Outdoor",
+                "location": {
+                    "lat": -16.714,
+                    "lng": 117.229
+                },
+                "numberOfDevices": 1,
+                "project": {
+                    "App": "n/a",
+                    "BudgetLink": 0,
+                    "Cname": "Coregas",
+                    "Cpriority": "Medium",
+                    "Location": "Outdoor",
+                    "Pcode": "Coregas Customer",
+                    "Revenue": 0,
+                    "SalesLead": "n/a"
+                },
+                "radius": 100,
+                "siteName": "GE OIL \u0026 GAS AUSTRALIA"
+            }
+        ]
+    }
+]
+// 7 sites in a tile - 3 clusters
+[
+    {
+        "CenterPoint": {
+            "X": -11.414,
+            "Y": 114.229
+        },
+        "sites": [
+            {
+                "activeDate": 0,
+                "coverage": {
+                    "processed": {
+                        "coverage": "No Coverage"
+                    },
+                    "raw": {
+                        "lat": -11.414,
+                        "lng": 114.229,
+                        "locationCovered": true,
+                        "margins": [
+                            0,
+                            0,
+                            0
+                        ]
+                    }
+                },
+                "customer": {
+                    "ABN": "32001255312",
+                    "name": "Coregas"
+                },
+                "environment": "Outdoor",
+                "location": {
+                    "lat": -11.414,
+                    "lng": 114.229
+                },
+                "numberOfDevices": 1,
+                "project": {
+                    "App": "n/a",
+                    "BudgetLink": 0,
+                    "Cname": "Coregas",
+                    "Cpriority": "Medium",
+                    "Location": "Outdoor",
+                    "Pcode": "Coregas Customer",
+                    "Revenue": 0,
+                    "SalesLead": "n/a"
+                },
+                "radius": 100,
+                "siteName": "First ABC"
+            },
+            {
+                "activeDate": 0,
+                "coverage": {
+                    "processed": {
+                        "coverage": "No Coverage"
+                    },
+                    "raw": {
+                        "lat": -11.614,
+                        "lng": 116.229,
+                        "locationCovered": true,
+                        "margins": [
+                            0,
+                            0,
+                            0
+                        ]
+                    }
+                },
+                "customer": {
+                    "ABN": "32001255312",
+                    "name": "Coregas"
+                },
+                "environment": "Outdoor",
+                "location": {
+                    "lat": -11.614,
+                    "lng": 116.229
+                },
+                "numberOfDevices": 1,
+                "project": {
+                    "App": "n/a",
+                    "BudgetLink": 0,
+                    "Cname": "Coregas",
+                    "Cpriority": "Medium",
+                    "Location": "Outdoor",
+                    "Pcode": "Coregas Customer",
+                    "Revenue": 0,
+                    "SalesLead": "n/a"
+                },
+                "radius": 100,
+                "siteName": "GE OIL \u0026 GAS AUSTRALIA"
+            },
+            {
+                "activeDate": 0,
+                "coverage": {
+                    "processed": {
+                        "coverage": "No Coverage"
+                    },
+                    "raw": {
+                        "lat": -11.714,
+                        "lng": 117.229,
+                        "locationCovered": true,
+                        "margins": [
+                            0,
+                            0,
+                            0
+                        ]
+                    }
+                },
+                "customer": {
+                    "ABN": "32001255312",
+                    "name": "Coregas"
+                },
+                "environment": "Outdoor",
+                "location": {
+                    "lat": -11.714,
+                    "lng": 117.229
+                },
+                "numberOfDevices": 1,
+                "project": {
+                    "App": "n/a",
+                    "BudgetLink": 0,
+                    "Cname": "Coregas",
+                    "Cpriority": "Medium",
+                    "Location": "Outdoor",
+                    "Pcode": "Coregas Customer",
+                    "Revenue": 0,
+                    "SalesLead": "n/a"
+                },
+                "radius": 100,
+                "siteName": "GE OIL \u0026 GAS AUSTRALIA"
+            }
+        ]
+    },
+    {
+        "CenterPoint": {
+            "X": -11.814,
+            "Y": 118.229
+        },
+        "sites": [
+            {
+                "activeDate": 0,
+                "coverage": {
+                    "processed": {
+                        "coverage": "No Coverage"
+                    },
+                    "raw": {
+                        "lat": -11.814,
+                        "lng": 118.229,
+                        "locationCovered": true,
+                        "margins": [
+                            0,
+                            0,
+                            0
+                        ]
+                    }
+                },
+                "customer": {
+                    "ABN": "32001255312",
+                    "name": "Coregas"
+                },
+                "environment": "Outdoor",
+                "location": {
+                    "lat": -11.814,
+                    "lng": 118.229
+                },
+                "numberOfDevices": 1,
+                "project": {
+                    "App": "n/a",
+                    "BudgetLink": 0,
+                    "Cname": "Coregas",
+                    "Cpriority": "Medium",
+                    "Location": "Outdoor",
+                    "Pcode": "Coregas Customer",
+                    "Revenue": 0,
+                    "SalesLead": "n/a"
+                },
+                "radius": 100,
+                "siteName": "GE OIL \u0026 GAS AUSTRALIA"
+            },
+            {
+                "activeDate": 0,
+                "coverage": {
+                    "processed": {
+                        "coverage": "No Coverage"
+                    },
+                    "raw": {
+                        "lat": -11.914,
+                        "lng": 119.229,
+                        "locationCovered": true,
+                        "margins": [
+                            0,
+                            0,
+                            0
+                        ]
+                    }
+                },
+                "customer": {
+                    "ABN": "32001255312",
+                    "name": "Coregas"
+                },
+                "environment": "Outdoor",
+                "location": {
+                    "lat": -11.914,
+                    "lng": 119.229
+                },
+                "numberOfDevices": 1,
+                "project": {
+                    "App": "n/a",
+                    "BudgetLink": 0,
+                    "Cname": "Coregas",
+                    "Cpriority": "Medium",
+                    "Location": "Outdoor",
+                    "Pcode": "Coregas Customer",
+                    "Revenue": 0,
+                    "SalesLead": "n/a"
+                },
+                "radius": 100,
+                "siteName": "GE OIL \u0026 GAS AUSTRALIA"
+            }
+        ]
+    },
+    {
+        "CenterPoint": {
+            "X": -17.514,
+            "Y": 115.229
+        },
+        "sites": [
+            {
+                "activeDate": 0,
+                "coverage": {
+                    "processed": {
+                        "coverage": "No Coverage"
+                    },
+                    "raw": {
+                        "lat": -11.514,
+                        "lng": 115.229,
+                        "locationCovered": true,
+                        "margins": [
+                            0,
+                            0,
+                            0
+                        ]
+                    }
+                },
+                "customer": {
+                    "ABN": "32001255312",
+                    "name": "Coregas"
+                },
+                "environment": "Outdoor",
+                "location": {
+                    "lat": -17.514,
+                    "lng": 115.229
+                },
+                "numberOfDevices": 1,
+                "project": {
+                    "App": "n/a",
+                    "BudgetLink": 0,
+                    "Cname": "Coregas",
+                    "Cpriority": "Medium",
+                    "Location": "Outdoor",
+                    "Pcode": "Coregas Customer",
+                    "Revenue": 0,
+                    "SalesLead": "n/a"
+                },
+                "radius": 100,
+                "siteName": "GE OIL \u0026 GAS AUSTRALIA"
+            },
+            {
+                "activeDate": 0,
+                "coverage": {
+                    "processed": {
+                        "coverage": "No Coverage"
+                    },
+                    "raw": {
+                        "lat": -16.714,
+                        "lng": 117.229,
+                        "locationCovered": true,
+                        "margins": [
+                            0,
+                            0,
+                            0
+                        ]
+                    }
+                },
+                "customer": {
+                    "ABN": "32001255312",
+                    "name": "Coregas"
+                },
+                "environment": "Outdoor",
+                "location": {
+                    "lat": -16.714,
+                    "lng": 117.229
+                },
+                "numberOfDevices": 1,
+                "project": {
+                    "App": "n/a",
+                    "BudgetLink": 0,
+                    "Cname": "Coregas",
+                    "Cpriority": "Medium",
+                    "Location": "Outdoor",
+                    "Pcode": "Coregas Customer",
+                    "Revenue": 0,
+                    "SalesLead": "n/a"
+                },
+                "radius": 100,
+                "siteName": "Last XYZ"
+            }
+        ]
+    }
+]
+// 21 sites in a tile - 3 clusters
+[
+    {
+        "CenterPoint": {
+            "X": -11.414,
+            "Y": 114.229
+        },
+        "sites": [
+            {
+                "activeDate": 0,
+                "coverage": {
+                    "processed": {
+                        "coverage": "No Coverage"
+                    },
+                    "raw": {
+                        "lat": -11.414,
+                        "lng": 114.229,
+                        "locationCovered": true,
+                        "margins": [
+                            0,
+                            0,
+                            0
+                        ]
+                    }
+                },
+                "customer": {
+                    "ABN": "32001255312",
+                    "name": "Coregas"
+                },
+                "environment": "Outdoor",
+                "location": {
+                    "lat": -11.414,
+                    "lng": 114.229
+                },
+                "numberOfDevices": 1,
+                "project": {
+                    "App": "n/a",
+                    "BudgetLink": 0,
+                    "Cname": "Coregas",
+                    "Cpriority": "Medium",
+                    "Location": "Outdoor",
+                    "Pcode": "Coregas Customer",
+                    "Revenue": 0,
+                    "SalesLead": "n/a"
+                },
+                "radius": 100,
+                "siteName": "ABC"
+            },
+            {
+                "activeDate": 0,
+                "coverage": {
+                    "processed": {
+                        "coverage": "No Coverage"
+                    },
+                    "raw": {
+                        "lat": -11.614,
+                        "lng": 116.229,
+                        "locationCovered": true,
+                        "margins": [
+                            0,
+                            0,
+                            0
+                        ]
+                    }
+                },
+                "customer": {
+                    "ABN": "32001255312",
+                    "name": "Coregas"
+                },
+                "environment": "Outdoor",
+                "location": {
+                    "lat": -11.614,
+                    "lng": 116.229
+                },
+                "numberOfDevices": 1,
+                "project": {
+                    "App": "n/a",
+                    "BudgetLink": 0,
+                    "Cname": "Coregas",
+                    "Cpriority": "Medium",
+                    "Location": "Outdoor",
+                    "Pcode": "Coregas Customer",
+                    "Revenue": 0,
+                    "SalesLead": "n/a"
+                },
+                "radius": 100,
+                "siteName": "GE OIL \u0026 GAS AUSTRALIA"
+            },
+            {
+                "activeDate": 0,
+                "coverage": {
+                    "processed": {
+                        "coverage": "No Coverage"
+                    },
+                    "raw": {
+                        "lat": -11.714,
+                        "lng": 117.229,
+                        "locationCovered": true,
+                        "margins": [
+                            0,
+                            0,
+                            0
+                        ]
+                    }
+                },
+                "customer": {
+                    "ABN": "32001255312",
+                    "name": "Coregas"
+                },
+                "environment": "Outdoor",
+                "location": {
+                    "lat": -11.714,
+                    "lng": 117.229
+                },
+                "numberOfDevices": 1,
+                "project": {
+                    "App": "n/a",
+                    "BudgetLink": 0,
+                    "Cname": "Coregas",
+                    "Cpriority": "Medium",
+                    "Location": "Outdoor",
+                    "Pcode": "Coregas Customer",
+                    "Revenue": 0,
+                    "SalesLead": "n/a"
+                },
+                "radius": 100,
+                "siteName": "GE OIL \u0026 GAS AUSTRALIA"
+            },
+            {
+                "activeDate": 0,
+                "coverage": {
+                    "processed": {
+                        "coverage": "No Coverage"
+                    },
+                    "raw": {
+                        "lat": -12.414,
+                        "lng": 114.229,
+                        "locationCovered": true,
+                        "margins": [
+                            0,
+                            0,
+                            0
+                        ]
+                    }
+                },
+                "customer": {
+                    "ABN": "32001255312",
+                    "name": "Coregas"
+                },
+                "environment": "Outdoor",
+                "location": {
+                    "lat": -12.414,
+                    "lng": 114.229
+                },
+                "numberOfDevices": 1,
+                "project": {
+                    "App": "n/a",
+                    "BudgetLink": 0,
+                    "Cname": "Coregas",
+                    "Cpriority": "Medium",
+                    "Location": "Outdoor",
+                    "Pcode": "Coregas Customer",
+                    "Revenue": 0,
+                    "SalesLead": "n/a"
+                },
+                "radius": 100,
+                "siteName": "ABC"
+            },
+            {
+                "activeDate": 0,
+                "coverage": {
+                    "processed": {
+                        "coverage": "No Coverage"
+                    },
+                    "raw": {
+                        "lat": -12.514,
+                        "lng": 115.229,
+                        "locationCovered": true,
+                        "margins": [
+                            0,
+                            0,
+                            0
+                        ]
+                    }
+                },
+                "customer": {
+                    "ABN": "32001255312",
+                    "name": "Coregas"
+                },
+                "environment": "Outdoor",
+                "location": {
+                    "lat": -12.514,
+                    "lng": 115.229
+                },
+                "numberOfDevices": 1,
+                "project": {
+                    "App": "n/a",
+                    "BudgetLink": 0,
+                    "Cname": "Coregas",
+                    "Cpriority": "Medium",
+                    "Location": "Outdoor",
+                    "Pcode": "Coregas Customer",
+                    "Revenue": 0,
+                    "SalesLead": "n/a"
+                },
+                "radius": 100,
+                "siteName": "GE OIL \u0026 GAS AUSTRALIA"
+            },
+            {
+                "activeDate": 0,
+                "coverage": {
+                    "processed": {
+                        "coverage": "No Coverage"
+                    },
+                    "raw": {
+                        "lat": -12.614,
+                        "lng": 116.229,
+                        "locationCovered": true,
+                        "margins": [
+                            0,
+                            0,
+                            0
+                        ]
+                    }
+                },
+                "customer": {
+                    "ABN": "32001255312",
+                    "name": "Coregas"
+                },
+                "environment": "Outdoor",
+                "location": {
+                    "lat": -12.614,
+                    "lng": 116.229
+                },
+                "numberOfDevices": 1,
+                "project": {
+                    "App": "n/a",
+                    "BudgetLink": 0,
+                    "Cname": "Coregas",
+                    "Cpriority": "Medium",
+                    "Location": "Outdoor",
+                    "Pcode": "Coregas Customer",
+                    "Revenue": 0,
+                    "SalesLead": "n/a"
+                },
+                "radius": 100,
+                "siteName": "GE OIL \u0026 GAS AUSTRALIA"
+            },
+            {
+                "activeDate": 0,
+                "coverage": {
+                    "processed": {
+                        "coverage": "No Coverage"
+                    },
+                    "raw": {
+                        "lat": -12.714,
+                        "lng": 117.229,
+                        "locationCovered": true,
+                        "margins": [
+                            0,
+                            0,
+                            0
+                        ]
+                    }
+                },
+                "customer": {
+                    "ABN": "32001255312",
+                    "name": "Coregas"
+                },
+                "environment": "Outdoor",
+                "location": {
+                    "lat": -12.714,
+                    "lng": 117.229
+                },
+                "numberOfDevices": 1,
+                "project": {
+                    "App": "n/a",
+                    "BudgetLink": 0,
+                    "Cname": "Coregas",
+                    "Cpriority": "Medium",
+                    "Location": "Outdoor",
+                    "Pcode": "Coregas Customer",
+                    "Revenue": 0,
+                    "SalesLead": "n/a"
+                },
+                "radius": 100,
+                "siteName": "GE OIL \u0026 GAS AUSTRALIA"
+            },
+            {
+                "activeDate": 0,
+                "coverage": {
+                    "processed": {
+                        "coverage": "No Coverage"
+                    },
+                    "raw": {
+                        "lat": -13.414,
+                        "lng": 114.229,
+                        "locationCovered": true,
+                        "margins": [
+                            0,
+                            0,
+                            0
+                        ]
+                    }
+                },
+                "customer": {
+                    "ABN": "32001255312",
+                    "name": "Coregas"
+                },
+                "environment": "Outdoor",
+                "location": {
+                    "lat": -13.414,
+                    "lng": 114.229
+                },
+                "numberOfDevices": 1,
+                "project": {
+                    "App": "n/a",
+                    "BudgetLink": 0,
+                    "Cname": "Coregas",
+                    "Cpriority": "Medium",
+                    "Location": "Outdoor",
+                    "Pcode": "Coregas Customer",
+                    "Revenue": 0,
+                    "SalesLead": "n/a"
+                },
+                "radius": 100,
+                "siteName": "ABC"
+            },
+            {
+                "activeDate": 0,
+                "coverage": {
+                    "processed": {
+                        "coverage": "No Coverage"
+                    },
+                    "raw": {
+                        "lat": -13.514,
+                        "lng": 116.229,
+                        "locationCovered": true,
+                        "margins": [
+                            0,
+                            0,
+                            0
+                        ]
+                    }
+                },
+                "customer": {
+                    "ABN": "32001255312",
+                    "name": "Coregas"
+                },
+                "environment": "Outdoor",
+                "location": {
+                    "lat": -13.514,
+                    "lng": 116.229
+                },
+                "numberOfDevices": 1,
+                "project": {
+                    "App": "n/a",
+                    "BudgetLink": 0,
+                    "Cname": "Coregas",
+                    "Cpriority": "Medium",
+                    "Location": "Outdoor",
+                    "Pcode": "Coregas Customer",
+                    "Revenue": 0,
+                    "SalesLead": "n/a"
+                },
+                "radius": 100,
+                "siteName": "GE OIL \u0026 GAS AUSTRALIA"
+            },
+            {
+                "activeDate": 0,
+                "coverage": {
+                    "processed": {
+                        "coverage": "No Coverage"
+                    },
+                    "raw": {
+                        "lat": -13.614,
+                        "lng": 117.229,
+                        "locationCovered": true,
+                        "margins": [
+                            0,
+                            0,
+                            0
+                        ]
+                    }
+                },
+                "customer": {
+                    "ABN": "32001255312",
+                    "name": "Coregas"
+                },
+                "environment": "Outdoor",
+                "location": {
+                    "lat": -13.614,
+                    "lng": 117.229
+                },
+                "numberOfDevices": 1,
+                "project": {
+                    "App": "n/a",
+                    "BudgetLink": 0,
+                    "Cname": "Coregas",
+                    "Cpriority": "Medium",
+                    "Location": "Outdoor",
+                    "Pcode": "Coregas Customer",
+                    "Revenue": 0,
+                    "SalesLead": "n/a"
+                },
+                "radius": 100,
+                "siteName": "GE OIL \u0026 GAS AUSTRALIA"
+            },
+            {
+                "activeDate": 0,
+                "coverage": {
+                    "processed": {
+                        "coverage": "No Coverage"
+                    },
+                    "raw": {
+                        "lat": -13.714,
+                        "lng": 113.229,
+                        "locationCovered": true,
+                        "margins": [
+                            0,
+                            0,
+                            0
+                        ]
+                    }
+                },
+                "customer": {
+                    "ABN": "32001255312",
+                    "name": "Coregas"
+                },
+                "environment": "Outdoor",
+                "location": {
+                    "lat": -13.714,
+                    "lng": 113.229
+                },
+                "numberOfDevices": 1,
+                "project": {
+                    "App": "n/a",
+                    "BudgetLink": 0,
+                    "Cname": "Coregas",
+                    "Cpriority": "Medium",
+                    "Location": "Outdoor",
+                    "Pcode": "Coregas Customer",
+                    "Revenue": 0,
+                    "SalesLead": "n/a"
+                },
+                "radius": 100,
+                "siteName": "GE OIL \u0026 GAS AUSTRALIA"
+            }
+        ]
+    },
+    {
+        "CenterPoint": {
+            "X": -11.814,
+            "Y": 118.229
+        },
+        "sites": [
+            {
+                "activeDate": 0,
+                "coverage": {
+                    "processed": {
+                        "coverage": "No Coverage"
+                    },
+                    "raw": {
+                        "lat": -11.814,
+                        "lng": 118.229,
+                        "locationCovered": true,
+                        "margins": [
+                            0,
+                            0,
+                            0
+                        ]
+                    }
+                },
+                "customer": {
+                    "ABN": "32001255312",
+                    "name": "Coregas"
+                },
+                "environment": "Outdoor",
+                "location": {
+                    "lat": -11.814,
+                    "lng": 118.229
+                },
+                "numberOfDevices": 1,
+                "project": {
+                    "App": "n/a",
+                    "BudgetLink": 0,
+                    "Cname": "Coregas",
+                    "Cpriority": "Medium",
+                    "Location": "Outdoor",
+                    "Pcode": "Coregas Customer",
+                    "Revenue": 0,
+                    "SalesLead": "n/a"
+                },
+                "radius": 100,
+                "siteName": "GE OIL \u0026 GAS AUSTRALIA"
+            },
+            {
+                "activeDate": 0,
+                "coverage": {
+                    "processed": {
+                        "coverage": "No Coverage"
+                    },
+                    "raw": {
+                        "lat": -11.914,
+                        "lng": 119.229,
+                        "locationCovered": true,
+                        "margins": [
+                            0,
+                            0,
+                            0
+                        ]
+                    }
+                },
+                "customer": {
+                    "ABN": "32001255312",
+                    "name": "Coregas"
+                },
+                "environment": "Outdoor",
+                "location": {
+                    "lat": -11.914,
+                    "lng": 119.229
+                },
+                "numberOfDevices": 1,
+                "project": {
+                    "App": "n/a",
+                    "BudgetLink": 0,
+                    "Cname": "Coregas",
+                    "Cpriority": "Medium",
+                    "Location": "Outdoor",
+                    "Pcode": "Coregas Customer",
+                    "Revenue": 0,
+                    "SalesLead": "n/a"
+                },
+                "radius": 100,
+                "siteName": "GE OIL \u0026 GAS AUSTRALIA"
+            },
+            {
+                "activeDate": 0,
+                "coverage": {
+                    "processed": {
+                        "coverage": "No Coverage"
+                    },
+                    "raw": {
+                        "lat": -12.814,
+                        "lng": 118.229,
+                        "locationCovered": true,
+                        "margins": [
+                            0,
+                            0,
+                            0
+                        ]
+                    }
+                },
+                "customer": {
+                    "ABN": "32001255312",
+                    "name": "Coregas"
+                },
+                "environment": "Outdoor",
+                "location": {
+                    "lat": -12.814,
+                    "lng": 118.229
+                },
+                "numberOfDevices": 1,
+                "project": {
+                    "App": "n/a",
+                    "BudgetLink": 0,
+                    "Cname": "Coregas",
+                    "Cpriority": "Medium",
+                    "Location": "Outdoor",
+                    "Pcode": "Coregas Customer",
+                    "Revenue": 0,
+                    "SalesLead": "n/a"
+                },
+                "radius": 100,
+                "siteName": "GE OIL \u0026 GAS AUSTRALIA"
+            },
+            {
+                "activeDate": 0,
+                "coverage": {
+                    "processed": {
+                        "coverage": "No Coverage"
+                    },
+                    "raw": {
+                        "lat": -12.914,
+                        "lng": 119.229,
+                        "locationCovered": true,
+                        "margins": [
+                            0,
+                            0,
+                            0
+                        ]
+                    }
+                },
+                "customer": {
+                    "ABN": "32001255312",
+                    "name": "Coregas"
+                },
+                "environment": "Outdoor",
+                "location": {
+                    "lat": -12.914,
+                    "lng": 119.229
+                },
+                "numberOfDevices": 1,
+                "project": {
+                    "App": "n/a",
+                    "BudgetLink": 0,
+                    "Cname": "Coregas",
+                    "Cpriority": "Medium",
+                    "Location": "Outdoor",
+                    "Pcode": "Coregas Customer",
+                    "Revenue": 0,
+                    "SalesLead": "n/a"
+                },
+                "radius": 100,
+                "siteName": "GE OIL \u0026 GAS AUSTRALIA"
+            },
+            {
+                "activeDate": 0,
+                "coverage": {
+                    "processed": {
+                        "coverage": "No Coverage"
+                    },
+                    "raw": {
+                        "lat": -13.814,
+                        "lng": 118.229,
+                        "locationCovered": true,
+                        "margins": [
+                            0,
+                            0,
+                            0
+                        ]
+                    }
+                },
+                "customer": {
+                    "ABN": "32001255312",
+                    "name": "Coregas"
+                },
+                "environment": "Outdoor",
+                "location": {
+                    "lat": -13.814,
+                    "lng": 118.229
+                },
+                "numberOfDevices": 1,
+                "project": {
+                    "App": "n/a",
+                    "BudgetLink": 0,
+                    "Cname": "Coregas",
+                    "Cpriority": "Medium",
+                    "Location": "Outdoor",
+                    "Pcode": "Coregas Customer",
+                    "Revenue": 0,
+                    "SalesLead": "n/a"
+                },
+                "radius": 100,
+                "siteName": "GE OIL \u0026 GAS AUSTRALIA"
+            },
+            {
+                "activeDate": 0,
+                "coverage": {
+                    "processed": {
+                        "coverage": "No Coverage"
+                    },
+                    "raw": {
+                        "lat": -13.914,
+                        "lng": 119.229,
+                        "locationCovered": true,
+                        "margins": [
+                            0,
+                            0,
+                            0
+                        ]
+                    }
+                },
+                "customer": {
+                    "ABN": "32001255312",
+                    "name": "Coregas"
+                },
+                "environment": "Outdoor",
+                "location": {
+                    "lat": -13.914,
+                    "lng": 119.229
+                },
+                "numberOfDevices": 1,
+                "project": {
+                    "App": "n/a",
+                    "BudgetLink": 0,
+                    "Cname": "Coregas",
+                    "Cpriority": "Medium",
+                    "Location": "Outdoor",
+                    "Pcode": "Coregas Customer",
+                    "Revenue": 0,
+                    "SalesLead": "n/a"
+                },
+                "radius": 100,
+                "siteName": "GE OIL \u0026 GAS AUSTRALIA"
+            }
+        ]
+    },
+    {
+        "CenterPoint": {
+            "X": -17.514,
+            "Y": 115.229
+        },
+        "sites": [
+            {
+                "activeDate": 0,
+                "coverage": {
+                    "processed": {
+                        "coverage": "No Coverage"
+                    },
+                    "raw": {
+                        "lat": -11.514,
+                        "lng": 115.229,
+                        "locationCovered": true,
+                        "margins": [
+                            0,
+                            0,
+                            0
+                        ]
+                    }
+                },
+                "customer": {
+                    "ABN": "32001255312",
+                    "name": "Coregas"
+                },
+                "environment": "Outdoor",
+                "location": {
+                    "lat": -17.514,
+                    "lng": 115.229
+                },
+                "numberOfDevices": 1,
+                "project": {
+                    "App": "n/a",
+                    "BudgetLink": 0,
+                    "Cname": "Coregas",
+                    "Cpriority": "Medium",
+                    "Location": "Outdoor",
+                    "Pcode": "Coregas Customer",
+                    "Revenue": 0,
+                    "SalesLead": "n/a"
+                },
+                "radius": 100,
+                "siteName": "GE OIL \u0026 GAS AUSTRALIA"
+            },
+            {
+                "activeDate": 0,
+                "coverage": {
+                    "processed": {
+                        "coverage": "No Coverage"
+                    },
+                    "raw": {
+                        "lat": -16.714,
+                        "lng": 117.229,
+                        "locationCovered": true,
+                        "margins": [
+                            0,
+                            0,
+                            0
+                        ]
+                    }
+                },
+                "customer": {
+                    "ABN": "32001255312",
+                    "name": "Coregas"
+                },
+                "environment": "Outdoor",
+                "location": {
+                    "lat": -16.714,
+                    "lng": 117.229
+                },
+                "numberOfDevices": 1,
+                "project": {
+                    "App": "n/a",
+                    "BudgetLink": 0,
+                    "Cname": "Coregas",
+                    "Cpriority": "Medium",
+                    "Location": "Outdoor",
+                    "Pcode": "Coregas Customer",
+                    "Revenue": 0,
+                    "SalesLead": "n/a"
+                },
+                "radius": 100,
+                "siteName": "GE OIL \u0026 GAS AUSTRALIA"
+            },
+            {
+                "activeDate": 0,
+                "coverage": {
+                    "processed": {
+                        "coverage": "No Coverage"
+                    },
+                    "raw": {
+                        "lat": -16.714,
+                        "lng": 113.229,
+                        "locationCovered": true,
+                        "margins": [
+                            0,
+                            0,
+                            0
+                        ]
+                    }
+                },
+                "customer": {
+                    "ABN": "32001255312",
+                    "name": "Coregas"
+                },
+                "environment": "Outdoor",
+                "location": {
+                    "lat": -16.714,
+                    "lng": 113.229
+                },
+                "numberOfDevices": 1,
+                "project": {
+                    "App": "n/a",
+                    "BudgetLink": 0,
+                    "Cname": "Coregas",
+                    "Cpriority": "Medium",
+                    "Location": "Outdoor",
+                    "Pcode": "Coregas Customer",
+                    "Revenue": 0,
+                    "SalesLead": "n/a"
+                },
+                "radius": 100,
+                "siteName": "GE OIL \u0026 GAS AUSTRALIA"
+            },
+            {
+                "activeDate": 0,
+                "coverage": {
+                    "processed": {
+                        "coverage": "No Coverage"
+                    },
+                    "raw": {
+                        "lat": -16.714,
+                        "lng": 115.229,
+                        "locationCovered": true,
+                        "margins": [
+                            0,
+                            0,
+                            0
+                        ]
+                    }
+                },
+                "customer": {
+                    "ABN": "32001255312",
+                    "name": "Coregas"
+                },
+                "environment": "Outdoor",
+                "location": {
+                    "lat": -16.714,
+                    "lng": 115.229
+                },
+                "numberOfDevices": 1,
+                "project": {
+                    "App": "n/a",
+                    "BudgetLink": 0,
+                    "Cname": "Coregas",
+                    "Cpriority": "Medium",
+                    "Location": "Outdoor",
+                    "Pcode": "Coregas Customer",
+                    "Revenue": 0,
+                    "SalesLead": "n/a"
+                },
+                "radius": 100,
+                "siteName": "GE OIL \u0026 GAS AUSTRALIA"
+            }
+        ]
+    }
+]
